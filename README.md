@@ -4,4 +4,4 @@ O objetivo de aprender python é poder me tornar um data science futuramente.
 
 #English
 In this repository i have done cods and projects that teach me python, this is the beggining after all, A new cicle start been sucessfull.
-My goal is to be a data science in the future.
+My goal is to be a data scientist in the future.
